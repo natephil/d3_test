@@ -318,6 +318,3 @@ d3.tip = function() {
 
   return tip
 };
-×
-Drag and Drop
-The image will be downloaded
